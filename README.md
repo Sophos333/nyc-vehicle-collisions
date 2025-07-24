@@ -69,6 +69,13 @@ Open this file in your browser: **`nyc_crashes_heatmap_with_boroughs.html`**
 - Create a web dashboard (e.g., Streamlit) to interactively explore trends.
 
 ---
+## **Interactive Heatmap**
+
+An interactive heatmap is included to visualize crash density across NYC.  
+👉 **[View the Live Heatmap Here](https://sophos333.github.io/nyc-vehicle-collisions/nyc_crashes_heatmap_with_boroughs.html)**  
+(Open in your browser for full interactivity)
+
+---
 
 ## **Author**
 
